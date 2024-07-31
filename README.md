@@ -20,7 +20,7 @@ Before running the script:
 1. Replace the placeholder values for CLIENT_ID and CLIENT_SECRET above with your actual API credentials.
 
 To run the script:
-1. Ensure you have Python installed on your Windows system.
+1. Ensure you have Python installed on your system.
 2. Install the required packages:
 
    `pip install crowdstrike-falconpy`
