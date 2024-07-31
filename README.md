@@ -7,7 +7,7 @@ _________                               .___  _________                  __     
         \/                               \/         \/ |__|                               \/         
 ```
 
-CrowdSpotter: CrowdStrike Online Host Monitor (Windows Version)
+CrowdSpotter: CrowdStrike Online Host Monitor
 
 Author: [@pixelnull@infosec.exchange](https://infosec.exchange/@pixelnull)
 
