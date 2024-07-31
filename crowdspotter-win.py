@@ -19,9 +19,6 @@ VERSION = "2024.07.30-win"
 CrowdSpotter: CrowdStrike Online Host Monitor (Windows Version)
 
 Author: @pixelnull@infosec.exchange
-License:  CrowdSpotter © 2024 by @pixelnull@infosec.exchange is licensed under Creative
-Commons Attribution-ShareAlike 4.0 International. To view a copy of this license,
-visit https://creativecommons.org/licenses/by-sa/4.0/
 
 This script monitors the online status of specified hosts using the CrowdStrike Falcon API.
 It periodically checks the status of the hosts and alerts the user when a host comes online
@@ -44,6 +41,10 @@ The script will:
 - Play a sound alert if the system is capable.
 - Display updates in the console window.
 - Continue running until you press Ctrl+C to stop it.
+
+License:  CrowdSpotter © 2024 by @pixelnull@infosec.exchange is licensed under Creative
+Commons Attribution-ShareAlike 4.0 International. To view a copy of this license,
+visit https://creativecommons.org/licenses/by-sa/4.0/
 '''
 
 import os
