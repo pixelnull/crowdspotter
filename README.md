@@ -14,7 +14,7 @@ Author: [@pixelnull@infosec.exchange](https://infosec.exchange/@pixelnull)
 This script monitors the online status of specified hosts using the CrowdStrike Falcon API.
 It periodically checks the status of the hosts and alerts the user when a host comes online
 or goes offline. It will link online hosts to the the Host Managment page in the CrowdStrike
-Web Console. This script is designed to run on Windows systems.
+Web Console. There are two scripts, one for Windows and one for Linux.
 
 Before running the script:
 1. Replace the placeholder values for CLIENT_ID and CLIENT_SECRET above with your actual API credentials.
