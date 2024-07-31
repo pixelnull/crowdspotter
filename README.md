@@ -35,6 +35,8 @@ The script will:
 - Play a sound alert if the system is capable.
 - Continue running until you press Ctrl+C to stop it.
 
+This will probably not be updated if it breaks unless I still need it later.
+
 License:  CrowdSpotter © 2024 by [@pixelnull@infosec.exchange](https://infosec.exchange/@pixelnull) is licensed under Creative
 Commons Attribution-ShareAlike 4.0 International. To view a copy of this license,
 visit https://creativecommons.org/licenses/by-sa/4.0/
