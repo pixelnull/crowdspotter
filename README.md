@@ -22,9 +22,11 @@ Before running the script:
 To run the script:
 1. Ensure you have Python installed on your Windows system.
 2. Install the required packages:
-   pip install crowdstrike-falconpy
+
+   `pip install crowdstrike-falconpy`
 3. Run the script with one or more AIDs as arguments:
-   python crowdspotter.py aid1 aid2 aid3 ...
+
+   `python crowdspotter.py aid1 aid2 aid3 ...`
 
 The script will:
 - Check host statuses at specified interval. Defualt is 30 seconds.
