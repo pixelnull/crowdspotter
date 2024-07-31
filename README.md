@@ -29,7 +29,7 @@ To run the script:
    `python crowdspotter.py aid1 aid2 aid3 ...`
 
 The script will:
-- Check host statuses at specified interval. Defualt is 30 seconds.
+- Check host statuses at specified interval. Default is 30 seconds.
 - Print an alert message when a new host comes online.
 - Link to the host in Host Managment page in CrowdStrike's Web Console.
 - Play a sound alert if the system is capable.
